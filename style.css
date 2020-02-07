@@ -464,6 +464,10 @@ button {
     outline: none!important;
 }
 
+/* button :focus {
+    background-color:blue !important;
+} */
+
 .btn-rd {
     border-radius: 40px;
 }
@@ -822,7 +826,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.jpg");
 }
 
 @media (max-width: 1024px) {
